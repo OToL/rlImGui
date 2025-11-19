@@ -31,10 +31,10 @@
 
 #include "imgui_impl_raylib.h"
 
-#include "raylib.h"
-#include "rlgl.h"
+#include <raylib/raylib.h>
+#include <raylib/rlgl.h>
 
-#include "imgui.h"
+#include <imgui/imgui.h>
 
 #include <math.h>
 #include <map>
